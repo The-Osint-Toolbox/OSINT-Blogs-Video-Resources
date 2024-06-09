@@ -28,7 +28,7 @@
     </tr>
     </tr>
   </table>
-  <br></br>
+<br></br>
 <table>
   <div id="dataosint"></div>
   <tr>
@@ -38,6 +38,7 @@
  <ul>
      <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT.
  </ul>
+<br></br>
  <table>
     <div id="emailsandusernames"></div>
     <tr>
@@ -52,6 +53,7 @@
      <li><a href="https://www.osintteam.com/learn-to-investigate-email-addresses/">Petro Cherkasets</a></li>An ultimate mailbox investigation guide. (2023)
      <li><a href="https://medium.com/@ronak.d.sharma111/osint-research-using-username-e-mail-phone-number-and-many-more-a99c4f5a958d">Ronak Sharma</a></li>OSINT Research Using Spiderfoot (2023)
  </ul>
+<br></br>
   <table>
     <div id="geolocation"></div>
     <tr>
@@ -66,6 +68,7 @@
     <li><a href="https://www.youtube.com/playlist?list=PLwFbKk71Xo1z0mt31RyIyqrEdasfyOvbQ">Sofia Santos</a></li>Sofia's YouTube Channel.
     <li><a href="https://medium.com/@viktor.osint/exploring-satellite-osint-tools-a-deep-dive-into-satellite-intelligence-68de444b080c">Viktor OSINT</a></li>Exploring satellite OSINT tools: A deep dive into satellite intelligence. (2023)
   </ul>
+  <br></br>
   <table>
     <div id="socialmedia"></div>
     <tr>
@@ -159,6 +162,7 @@
     <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
     <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists.
   </ul>
+  <br></br>
   <table>
     <div id="websiteosint"></div>
     <tr>
