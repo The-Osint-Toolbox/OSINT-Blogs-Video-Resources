@@ -1,8 +1,11 @@
-# OSINT-Blog-Video-OSINT-Resources
+# OSINT-Blogs-Video-OSINT-Resources
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-  <p>You will find useful blogs to do woth all aspects of Social Media</p>
+  <p>You will find useful blogs and video resources to help with your OSINT journey. Over time, some of the techniques & tradework may not work as platofrms change. If you find any that are no longer relevent please feel free to DM. If you are looking for Telegram, It has its own dedicated page.</p>
+<ul>
+  <li><a href="https://github.com/cqcore/Telegram-OSINT">Telegram Repository</a></li>
+</ul>
   <br></br>
   <table>
     <tr>
