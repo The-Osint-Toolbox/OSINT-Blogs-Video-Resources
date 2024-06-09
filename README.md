@@ -6,8 +6,7 @@
 <ul>
   <li><a href="https://github.com/cqcore/Telegram-OSINT">Telegram Repository</a></li>
 </ul>
-  <br></br>
-  <table>
+<table>
     <tr>
       <td>Table of Contents</td>
     </tr>
@@ -26,7 +25,9 @@
     <tr>
       <td><a href="#websiteosint">Website OSINT</a></td>
     </tr>
-    </tr>
+    <tr>
+       <td><a href="#youtubevideoosint">YouTube & Video OSINT</a></td>
+    </tr>
   </table>
 <br></br>
 <table>
@@ -184,3 +185,16 @@
     <li><a href="https://nixintel.info/osint/website-investigation-where-did-8chan-move-to/">Nixintel</a></li>Website Investigation – Where Did 8Chan Move To?
     <li><a href="https://nixintel.info/osint/website-osint-whats-the-link-between-antifa-com-and-russia/">Nixintel</a></li>Website OSINT: What’s The Link Between Antifa.com and Russia?
 </ul>     
+<table>
+    <div id="youtubevideoosint"></div>
+    <tr>
+      <td>YouTube & Video OSINT</td>
+    </tr>
+  </table>
+<ul>
+ <li><a href="https://www.aware-online.com/en/osint-tutorials/save-a-facebook-video/">Aware-Online</a></li>How to save a Facebook video.
+ <li><a href="https://www.aware-online.com/en/how-to-save-an-instagram-video/">Aware-Online</a></li> How to save an Instagram video.
+ <li><a href="https://www.aware-online.com/en/5-ways-to-download-videos-on-twitter/">Aware-Online</a></li>5 ways to download a Twitter video.
+ <li><a href="https://os2int.com/toolbox/analysing-youtube-video-playlist-and-channel-metadata/">OS2INT</a></li>Analysing Youtube Video Playlist and Channel Metadata.
+ <li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li> How to downlaod a video from Snapchat Map.
+</ul>  
