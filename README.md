@@ -1,6 +1,6 @@
 # OSINT-Blogs-Video-OSINT-Resources
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
   <p>You will find useful blogs and video resources to help with your OSINT journey. Over time, some of the techniques & tradecraft may not work as platofrms change. If you find any that are no longer relevent please feel free to DM. If you are looking for Telegram, It has its own dedicated page.</p>
 <ul>
@@ -19,6 +19,9 @@
     <tr>
       <td><a href="#geolocation">GeoLocation</a></td>
     </tr>
+    <tr>
+      <td><a href="#googledorking">Google Dorking</a></td>
+    </tr>
     <tr>
       <td><a href="#socialmedia">Social Media</a></td>
     </tr>
@@ -68,6 +71,18 @@
     <li><a href="https://medium.com/@Cyber_siva/how-to-find-the-exact-location-of-anyone-osint-part-1-eed7d1323c6a">Siva Sanker</a></li>How to find exact loaction. (2023)
     <li><a href="https://www.youtube.com/playlist?list=PLwFbKk71Xo1z0mt31RyIyqrEdasfyOvbQ">Sofia Santos</a></li>Sofia's YouTube Channel.
     <li><a href="https://medium.com/@viktor.osint/exploring-satellite-osint-tools-a-deep-dive-into-satellite-intelligence-68de444b080c">Viktor OSINT</a></li>Exploring satellite OSINT tools: A deep dive into satellite intelligence. (2023)
+  </ul>
+   <table>
+    <div id="googledorking"></div>
+    <tr>
+      <td>Google Dorking</td>
+    </tr>
+  </table>
+  <ul>
+    <li><a href="https://gralhix.com/2023/10/15/filetype-the-best-advanced-search-operator-for-osint-investigations/">Sofia Santos</a></li>
+     <p>Filetype: The Best Advanced Search Operator for OSINT Investigations?</p>
+    <li><a href="https://osintteam.blog/mastering-osint-the-art-of-google-dorking-for-investigators-e0a908055873">OSINT Team</a></li>
+     <p>From zero to Google Dorking hero: enhancing your OSINT arsenal. (2023)</p>
   </ul>
   <br></br>
   <table>
