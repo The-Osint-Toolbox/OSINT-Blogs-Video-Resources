@@ -26,7 +26,7 @@
       <td><a href="#socialmedia">Social Media</a></td>
     </tr>
    <tr>
-      <td><a href="#Telephone">Telephone</a></td>
+      <td><a href="#telephone">Telephone</a></td>
     </tr>
     <tr>
       <td><a href="#websiteosint">Website OSINT</a></td>
