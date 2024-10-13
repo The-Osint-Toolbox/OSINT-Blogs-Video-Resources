@@ -25,7 +25,7 @@
     <tr>
       <td><a href="#socialmedia">Social Media</a></td>
     </tr>
-   <tr>
+    <tr>
       <td><a href="#telephone">Telephone</a></td>
     </tr>
     <tr>
@@ -157,15 +157,6 @@
     <li><a href="https://youtube.com/watch?v=17yiLinMPpk">TOCP</a></li>TOCP 10 Minute Tip, How to download Snapchat videos.
     <li><a href="https://webbreacher.com/2022/10/24/grabbing-old-bitmoji-outfits-with-BACKMOJI/">WebBreacher</a></li>How to use Backmoji.(2022)
   </ul>
-<table>
-    <tr>
-        <td>Blogs</td>
-    </tr>
-</table>
-  <ul>
-    <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
-     <p>How to find a Google account by a phone number. (2023)</p>
-  </ul>
   <table>
     <tr>
       <td>TikTok</td>
@@ -191,6 +182,17 @@
     <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists.
   </ul>
   <br></br>
+<table>
+  <div id="Telephone"></div>
+    <tr>
+        <td>Telephone</td>
+    </tr>
+</table>
+  <ul>
+    <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
+     <p>How to find a Google account by a phone number. (2023)</p>
+  </ul>
+<br></br>
   <table>
     <div id="websiteosint"></div>
     <tr>
