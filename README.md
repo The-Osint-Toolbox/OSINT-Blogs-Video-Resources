@@ -191,6 +191,8 @@
   <ul>
     <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
      <p>How to find a Google account by a phone number. (2023)</p>
+    <lI><a href="https://medium.com/@practicalosint/8-free-osint-tools-for-phone-number-investigation-ab8479c817a4">Practical OSINT</a></lI>
+     <p>8 free OSINT tools for phone number investigation.(2024)</p>
   </ul>
 <br></br>
   <table>
