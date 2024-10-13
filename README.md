@@ -25,6 +25,9 @@
     <tr>
       <td><a href="#socialmedia">Social Media</a></td>
     </tr>
+   <tr>
+      <td><a href="#Telephone">Social Media</a></td>
+    </tr>
     <tr>
       <td><a href="#websiteosint">Website OSINT</a></td>
     </tr>
@@ -153,6 +156,15 @@
     <li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li>How to use Snapmap and download videos.
     <li><a href="https://youtube.com/watch?v=17yiLinMPpk">TOCP</a></li>TOCP 10 Minute Tip, How to download Snapchat videos.
     <li><a href="https://webbreacher.com/2022/10/24/grabbing-old-bitmoji-outfits-with-BACKMOJI/">WebBreacher</a></li>How to use Backmoji.(2022)
+  </ul>
+<table>
+    <tr>
+        <td>Blogs</td>
+    </tr>
+</table>
+  <ul>
+    <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
+     <p>How to find a Google account by a phone number. (2023)</p>
   </ul>
   <table>
     <tr>
