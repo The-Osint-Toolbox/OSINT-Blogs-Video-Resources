@@ -206,7 +206,7 @@
     <li><a href="https://publication.osintambition.org/how-to-use-python-sitemap-generator-for-osint-77bc69fa165d">Cyp Detective</a></li>How to use Python Sitemap Generator for OSINT? (2023)
     <li><a href="https://hatless1der.com/osint-quick-tips-beyond-whois/">Hatless1der</a></li>OSINT Quick Tips: Beyond WHOIS (2023)
     <li><a href="https://www.linkedin.com/pulse/how-see-googles-cache-any-page-joe-hall-xbnee">Joe Hall</a></li> How to see Google's cache for any page. (2024)
-    <li><a href="https://github.com/jonkeegan/behind-this-website?tab=readme-ov-file">Jon Keegan</a>Behind This Website (2024)</li>
+    <li><a href="https://github.com/jonkeegan/behind-this-website?tab=readme-ov-file">Jon Keegan</a></li>Behind This Website (2024)
     <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>Conducting Basic Open-source Intelligence Research on a Website| 2023
     <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li>Finding Out Who Is Behind A Website.
     <li><a href="https://nixintel.info/osint/website-forensics-how-to-detect-editorial-changes/">Nixintel</a></li>Nixintel's Website Forensics: How To Detect Editorial Change.
