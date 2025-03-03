@@ -43,6 +43,7 @@
   </tr>
 </table>
  <ul>
+     <li><a href="https://www.cqcore.uk/data-acquisition-osint/">CQCore</a></li>Data Acquisition OSINT. (2024)
      <li><a href="https://www.secjuice.com/leveraging-breach-data-for-osint/">Secjuice</a></li>Leveraging Breach Data for OSINT.
  </ul>
 <br></br>
