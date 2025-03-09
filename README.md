@@ -58,6 +58,7 @@
      <li><a href="https://www.cqcore.uk/happy-new-year-happy-osint-hunting/">Cqcore</a></li>Build your own eamil, username,telephone investigation capbility. (2024)
      <li><a href="https://kinsta.com/blog/find-email-address/">Kinsta</a></li>13 Ways to Find Someone’s Email Address. (2023)
      <li><a href="https://www.authentic8.com/blog/osint-techniques-email-investigations?utm_source=linkedin&utm_medium=social>">Nihad Hassan</a></li>Leveraging OSINT techniques for email investigations. (2024)
+     <li><a href="https://www.osintcombine.com/post/investigating-email-addresses-with-osint">OSINT Combine</a></li>Investigating Email Addresses with OSINT. (2025)
      <li><a href="https://www.osintteam.com/learn-to-investigate-email-addresses/">Petro Cherkasets</a></li>An ultimate mailbox investigation guide. (2023)
      <li><a href="https://medium.com/@ronak.d.sharma111/osint-research-using-username-e-mail-phone-number-and-many-more-a99c4f5a958d">Ronak Sharma</a></li>OSINT Research Using Spiderfoot (2023)
  </ul>
